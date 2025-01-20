@@ -8,7 +8,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 
-	desc "github.com/Negative3103/grpc/pkg/note_v1"
+	desc "../pkg/note_v1"
 )
 
 const grpcPort = 50051
